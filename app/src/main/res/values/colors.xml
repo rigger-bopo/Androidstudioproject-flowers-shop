@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rose_primary">#B3264B</color>
+    <color name="rose_dark">#7D1732</color>
+    <color name="rose_soft">#FCE8ED</color>
+    <color name="leaf_green">#2E7D5B</color>
+    <color name="leaf_soft">#E4F2EB</color>
+    <color name="amber">#E9A62B</color>
+    <color name="ink">#24171B</color>
+    <color name="muted">#7A6870</color>
+    <color name="line">#E8DDE1</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="canvas">#FFF9FA</color>
+    <color name="success">#2E7D5B</color>
+    <color name="warning">#C56A18</color>
+    <color name="danger">#C62845</color>
+    <color name="wechat_green">#20A765</color>
+    <color name="alipay_blue">#1677FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
